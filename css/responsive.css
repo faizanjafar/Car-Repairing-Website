@@ -1,0 +1,411 @@
+@media (max-width: 1130px) {
+    .content-box .banner-form {
+        margin: 5rem 0rem 0rem 10rem;
+    }
+    .content-box .content {
+        padding: 12rem 1rem 0rem 10rem;
+    }
+    .about-page .content{
+        padding: 0%;
+    }
+    
+/* 
+--------------------------------
+    About part 
+-------------------------------- */
+
+.about-content{
+    padding: 9rem 0rem 9rem 3rem;
+}
+.bg-img{
+    padding: 7rem 2rem 7rem 4rem;
+}
+.bg-img p{
+    padding-right: 6rem;
+}
+.about-img-content .about-img-para{
+    width: 80%;
+}
+
+
+}
+
+
+
+@media (max-width: 1030px) {
+    .banner p{       
+        width: 80%;
+    }
+}
+
+
+
+@media (max-width: 991px) {
+    .banner-part .img {
+        display: none;
+    }
+    .content-box .banner-form {
+        margin: 4rem 4rem 0rem 4rem;
+        padding: 2rem;
+    }
+    .content-box .content {
+        padding: 12rem 4rem 0rem 5rem;
+    }
+    .content-box .content h1 {
+        font-size: 3.7rem;
+    }
+    .header .navbar-nav .nav-item .nav-link{
+        color: #262626;
+        padding: 1rem 0rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .navbar-nav{
+        background-color: #fff;
+        margin-top: 1rem;
+        padding: 2rem 0rem;
+    }
+
+    /* 
+    --------------------------------
+        About part 
+    -------------------------------- */
+
+    .about-content{
+        padding: 6rem 0rem 6rem 3rem;
+    }
+    .bg-img{
+        padding: 6rem 1rem 6rem 3rem;
+    }
+    .bg-img p{
+        padding-right: 2rem;
+        font-size: 1rem;
+        word-spacing: 0px;
+    }
+    .about-content h4{
+        padding: 4rem 5rem 5rem 0rem;
+        font-size: 1.8rem;
+    }
+    .about-img-content .about-img-para{
+        width: 100%;
+    }
+    .about-img-content{
+        padding: 4rem 3rem;
+    }
+
+    .ask-img{
+        max-width: 90%;
+        min-height: 95%;
+        margin: auto;
+        /* padding: 18rem 0rem; */
+    }
+    .accordion-body{
+        padding: .8rem .5rem;
+        font-size: .8rem;
+    }
+    .accordion-button{
+        font-size: .97rem !important;
+        padding: 1rem .6rem;
+    }
+
+    .ask-question .container-fluid{
+        padding: 0rem 2rem;
+    }
+    .ask-question .row> *{
+        padding-right: calc(var(--bs-gutter-x) * .0);
+        padding-left: calc(var(--bs-gutter-x) * .0);
+    }
+    .about-page .content{
+        padding: 0%;
+    }
+
+
+
+
+
+}
+
+@media(max-width: 768px){
+    /* 
+    --------------------------------
+        About part 
+    -------------------------------- */
+    .about-content h4{
+        padding: 4rem 10rem 5rem 0rem;
+        font-size: 1.8rem;
+    }
+    .about-img2 .bg-img2{
+        padding: 16rem 0rem;
+    }
+    .ask-img{
+        max-width: 100%;
+        min-height: 100%;
+        padding: 18rem 0rem;
+        margin-top: 1.2rem;
+    }
+    .ask-question .container-fluid{
+        padding: 0rem 2.4rem;
+    }
+    .ask-question .row { 
+        flex-direction: column-reverse;
+    }
+    .ask-question .heading h2{
+        font-size: 2em !important;
+    }
+    .card.img{
+        display: block;
+        width: 100%;
+    }
+    .card{
+        text-align: center;
+    }
+    .banner p{
+        text-align: center;
+        width: 75%;
+    }
+
+
+
+@media (max-width: 450px) {
+    .content-box .banner-form {
+        margin: 4rem 2rem 0rem 2rem;
+        padding: 2rem;
+    }
+    .content-box .content {
+        padding: 10rem 2rem 0rem 2rem;
+    }
+    .content-box .content h1 {
+        font-size: 3.3rem;
+    }
+    .content-box .content p {
+        font-size: 1.45rem;
+    }
+    .banner-form input{
+        font-size: .85rem;
+    }
+    /* 
+    --------------------------------
+        About part 
+    -------------------------------- */
+
+    .about-content{
+        padding: 9rem 0rem 9rem 2rem;
+    }
+    .bg-img{
+        padding: 7rem 1rem 7rem 2rem;
+    }
+    .bg-img p{
+        padding-right: 2rem;
+        font-size: 1rem;
+        word-spacing: 0px;
+    }
+    .about-content h4{
+        padding: 4rem 3rem 5rem 0rem;
+        font-size: 1.8rem;
+    }
+    .about-img-content{
+        padding: 4rem 2rem;
+    }
+    .about-img2 .bg-img2{
+        padding: 12rem 0rem;
+    }
+    .about-img-content .about-img-para{
+        font-size: .98rem;
+    }
+    .about-img-content ul p{
+        font-size: .98rem;
+    }
+
+    .ask-img{
+        max-width: 100%;
+        min-height: 100%;
+        padding: 15rem 0rem;
+        margin-top: 1.2rem;
+    }
+    .ask-question .container-fluid{
+        padding: 0rem 1.5rem;
+    }
+    .ask-question .heading h2{
+        font-size: 1.6em !important;
+    }
+    .ask-question .heading{
+        margin-bottom: 1rem;
+    }
+    .card .owner-img{
+        padding: 18rem 0rem;
+    }
+
+
+
+
+    .banner p{
+        color: #fff;
+        font-size: 1.3rem;
+        margin-bottom: 0;
+        text-align: center !important;
+        width: 90%;
+    }
+}
+    .client-content {
+        padding: 0px 10px;
+    }
+    .about-page-content h1{
+        font-size: 2.4em !important;
+    }
+
+}
+
+
+
+
+
+@media (max-width: 370px) {
+    .content-box .banner-form {
+        margin: 4rem 1rem 0rem 1rem;
+        padding: 2rem;
+    }
+    .content-box .content {
+        padding: 10rem 1rem 0rem 1rem;
+    }
+    .content-box .content h1 {
+        font-size: 2.8rem;
+    }
+    .content-box .content p {
+        font-size: 1.25rem;
+    }
+    .content-box .banner-form {
+        padding: 2rem 1rem;
+    }
+    .btn{
+        padding: .5rem 1.1rem;
+        font-weight: .9rem;
+    }
+
+    /* 
+    --------------------------------
+        About part 
+    -------------------------------- */
+
+    .about-content{
+        padding: 9rem 0rem 9rem 1.5rem;
+    }
+    .bg-img{
+        padding: 7rem 1rem 7rem 1.5rem;
+    }
+    .bg-img p{
+        padding-right: 2rem;
+        font-size: .9rem;
+        word-spacing: 0px;
+    }
+    .about-content h4{
+        padding: 4rem 2rem 5rem 0rem;
+        font-size: 1.7rem;
+    }
+    .about-img-content h2{
+        font-size: 2rem;
+    }
+    .about-img-content .about-img-para{
+        font-size: .9rem;
+    }
+    .about-img-content ul p{
+        font-size: .81rem;
+    }
+    .about-img2 .bg-img2{
+        padding: 10rem 0rem;
+    }
+
+
+    .ask-img{
+        padding: 13rem 0rem;
+    }
+    .ask-question .container-fluid{
+        padding: 0rem 1rem;
+    }
+    .accordion-button{
+        font-size: .93rem !important;
+        padding: 1rem .6rem;
+    }
+    .ask-question .heading h2{
+        font-size: 1.5em !important;
+    }
+    .ask-question .heading{
+        margin-bottom: .7rem;
+    }
+
+
+    .story h2{
+        font-size: 2.15em;
+        font-weight: 600;
+    }
+    .story{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .about-page-content h1{
+        font-size: 2.2em !important;
+    }
+    .client-content {
+        padding: 0px 3px;
+    }
+}
+
+@media (max-width: 310px) {
+    .content-box .banner-form {
+        margin: 4rem .7rem 0rem .7rem;
+        padding: 1.6rem;
+    }
+    .content-box .content {
+        padding: 10rem .7rem 0rem .7rem;
+    }
+    .content-box .content h1 {
+        font-size: 2.6rem;
+    }
+    .content-box .content p {
+        font-size: 1.15rem;
+    }
+    .content-box .banner-form {
+        padding: 2rem .5rem;
+    }
+    .btn{
+        padding: .5rem 1rem;
+        font-weight: .9rem;
+    }
+    /* 
+    --------------------------------
+        About part 
+    -------------------------------- */
+
+    .about-content{
+        padding: 9rem 0rem 9rem 1.5rem;
+    }
+    .bg-img{
+        padding: 7rem 1rem 7rem 1.5rem;
+    }
+    .bg-img p{
+        padding-right: 1rem;
+        font-size: .9rem;
+        word-spacing: 0px;
+    }
+    .accordion-button{
+        font-size: .4rem;
+    }
+    .about-content h4{
+        padding: 4rem 1.1rem 5rem 0rem;
+        font-size: 1.6rem;
+    }
+    .about-img-content h2{
+        font-size: 1.95rem;
+        line-height: 1.2;
+    }
+    .accordion-button{
+        font-size: .91rem !important;
+        padding: 1rem .75rem;
+    }
+    .owner .card .px-3{
+        padding: .3rem .2rem !important;
+    }
+    .owner .heading h2{
+        font-size: 2em !important;
+    }
+}
